@@ -4,6 +4,7 @@
     "title": "Rainbow Fluids",
     "author": "Gobbel",
     "contact": "",
+    "homepage": "https://github.com/Gobbel2000/rainbow-fluids",
     "factorio_version": "0.17",
     "dependencies": ["base >= 0.17"],
     "description": "For creating creating beatiful, colored fluids that serve no purpose other that to look good."
